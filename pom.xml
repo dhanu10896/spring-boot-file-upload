@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.fullstackwebapp</groupId>
 	<artifactId>spring-boot-file-upload</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>spring-boot-file-upload</name>
 	<description>Spring Boot File upload.</description>
 
